@@ -1,5 +1,5 @@
-# Kg Converter
-weight = int(input("Weight: "))
+# Weight Converter
+weight = float(input("Weight: "))
 unit = input('(L)bs or (K)g: ')
 
 if unit.upper() == "L":
