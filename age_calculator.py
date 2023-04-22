@@ -1,4 +1,4 @@
-# A program to Calculate User's current age and month
+# Program to Calculate User's current age and month
 
 
 current_year = 2023
