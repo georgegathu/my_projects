@@ -1,4 +1,4 @@
-# Guess a Number 
+# Guess the Number 
 secret_number = 10
 guess_count = 0
 guess_limit = 2
